@@ -73,13 +73,13 @@ a {
 /* end of meeting image */
 
 /* start of products */
-section {
+.content {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
 
-article {
+.products {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -88,8 +88,10 @@ article {
   color: #ffffff;
 }
 
-article img {
+.products img {
   max-height: 200px;
+}
+.float-left {
   float: left;
   margin-right: 25px;
 }
@@ -98,7 +100,7 @@ article img {
   margin-left: 25px;
 }
 
-article h2 {
+.products h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
