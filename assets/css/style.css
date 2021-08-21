@@ -107,6 +107,7 @@ a {
 
 /* end of products */
 
+/* start of benefits */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -165,6 +166,7 @@ a {
   margin: 10px auto;
   max-width: 150px;
 }
+/* end of benefits */
 
 .footer {
   padding: 30px;
